@@ -1,0 +1,14 @@
+[
+  {
+    "email": "test@hotmail.com",
+    "salutation" : "Hi John"
+  },
+  {
+    "email": "test@gmail.com",
+    "salutation" : "Good Morning Sir"
+  },
+  {
+    "email": "test@gmail.com",
+    "salutation" : "Good Morning Sir"
+  }
+]
